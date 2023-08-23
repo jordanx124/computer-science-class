@@ -5,4 +5,4 @@ codehs taught me basic learning fundimantles about coding and how tiny mistakes 
 # 8/19/23
 i completed the first tracy module i learned how to move forward and back wards
 # 8/23/23 
-i learned how to loop 
+i learned how to loop and got my looping badge
